@@ -1,0 +1,7 @@
+1.Create signup page with email password field--------->DONE
+
+
+2.when signup data get saved give a link to go to Login page --->DONE
+
+3.in Login page there will be two input box email password when user will fill correct data show 
+Login successfull and show his email and password...
